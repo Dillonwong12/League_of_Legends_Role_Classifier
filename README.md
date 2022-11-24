@@ -25,3 +25,10 @@ League_of_Legends_Role_Classifier
 │
 └───Outliers Removed  # Contains graphical output produced when the script is run after removing outliers
 ```
+
+
+## Credits
+Team members:
+1. Angeline Cassie Ganily
+2. Christhalia Sanjaya
+3. Joshua Ch'ng Wei Han
